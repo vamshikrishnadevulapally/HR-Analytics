@@ -1,9 +1,11 @@
 ##HR Analytics
 
 #Introduction
+
 This is an analysis of the HR_Data , based on several parameters like analysis on the KPI's employees and other parameters which will provide insights of the employee attrition. This is built fully on Microsoft_Excel
 
 #Project_Objective
+
 To build an interactive and dynamic dashboard based on the analysis of HR_data, to gain insights on employee attrition.
 
 #More_on_this_project
